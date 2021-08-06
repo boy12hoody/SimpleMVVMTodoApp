@@ -5,6 +5,7 @@ Re-upload of the old project for demonstration purposes.
 </p>
 
 <p align="center">
+
   [![Telegram](https://img.shields.io/badge/Telegram-@BoyWonder-blue.svg?style=flat&logo=telegram)](https://t.me/boywonder)
   ![GitHub](https://img.shields.io/github/license/boy12hoody/SimpleMVVMTodoApp)
   ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/boy12hoody/SimpleMVVMTodoApp/Build%20&%20Publish%20Debug%20APK)
