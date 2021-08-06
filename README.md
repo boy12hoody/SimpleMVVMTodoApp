@@ -4,15 +4,10 @@ A simple todo app based on MVVM architecture.<br>
 Re-upload of the old project for demonstration purposes.
 </p>
 
-<p align="center">
-
   [![Telegram](https://img.shields.io/badge/Telegram-@BoyWonder-blue.svg?style=flat&logo=telegram)](https://t.me/boywonder)
-  ![GitHub](https://img.shields.io/github/license/boy12hoody/SimpleMVVMTodoApp)
-  ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/boy12hoody/SimpleMVVMTodoApp/Build%20&%20Publish%20Debug%20APK)
-  <a href="https://opensource.org/licenses/Apache-2.0"><img alt="License" src="https://img.shields.io/github/license/boy12hoody/SimpleMVVMTodoApp"/></a>
-  <a href="https://android-arsenal.com/api?level=21"><img alt="API" src="https://img.shields.io/badge/API-21%2B-brightgreen.svg?style=flat"/></a>
-  <a href="https://github.com/boy12hoody/SimpleMVVMTodoApp/actions"><img alt="Build Status" src="https://img.shields.io/github/workflow/status/boy12hoody/SimpleMVVMTodoApp/Build%20&%20Publish%20Debug%20APK"/></a>
-</p>
+  [![GitHub Workflow Status](https://img.shields.io/github/workflow/status/boy12hoody/SimpleMVVMTodoApp/Build%20&%20Publish%20Debug%20APK)](https://github.com/boy12hoody/SimpleMVVMTodoApp/actions/workflows/android.yml)
+  [![License](https://img.shields.io/github/license/boy12hoody/SimpleMVVMTodoApp)](https://opensource.org/licenses/Apache-2.0)
+  [![API](https://img.shields.io/badge/API-21%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=21)
 
 ## Download
 Go to the [Releases](https://github.com/boy12hoody/SimpleMVVMTodoApp/releases) to download the latest APK.
@@ -44,7 +39,7 @@ This app uses [***MVVM (Model View View-Model)***](https://developer.android.com
 ![kotlin](https://user-images.githubusercontent.com/70273198/128502828-7ed38c7c-d891-4245-9d38-ff6440c5ca97.png)
 
 ## Contact
-If you have questions or need any help, contact me.
+If you have questions or need any help, contact me on
 [![Telegram](https://img.shields.io/badge/Telegram-@BoyWonder-blue.svg?style=flat&logo=telegram)](https://t.me/boywonder)
 
 # License
