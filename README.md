@@ -5,7 +5,6 @@ Re-upload of the old project for demonstration purposes.
 </p>
 
 <p align="center">
-
   [![Telegram](https://img.shields.io/badge/Telegram-@BoyWonder-blue.svg?style=flat&logo=telegram)](https://t.me/boywonder)
   ![GitHub](https://img.shields.io/github/license/boy12hoody/SimpleMVVMTodoApp)
   ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/boy12hoody/SimpleMVVMTodoApp/Build%20&%20Publish%20Debug%20APK)
@@ -33,8 +32,6 @@ Go to the [Releases](https://github.com/boy12hoody/SimpleMVVMTodoApp/releases) t
   - [Hilt-Dagger](https://dagger.dev/hilt/) - Standard library to incorporate Dagger dependency injection into an Android application.
   - [Hilt-ViewModel](https://developer.android.com/training/dependency-injection/hilt-jetpack) - DI for injecting `ViewModel`.
 - [Material Components for Android](https://material.io/develop/android/docs/getting-started/) - Modular and customizable Material Design UI components for Android.
-- Architecture
-  - MVVM Architecture (View - DataBinding - ViewModel - Model)
 
 ## Architecture
 This app uses [***MVVM (Model View View-Model)***](https://developer.android.com/jetpack/docs/guide#recommended-app-arch) architecture.
