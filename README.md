@@ -4,10 +4,10 @@ A simple todo app based on MVVM architecture.<br>
 Re-upload of the old project for demonstration purposes.
 </p>
 
-  [![Telegram](https://img.shields.io/badge/Telegram-@BoyWonder-blue.svg?style=flat&logo=telegram)](https://t.me/boywonder)
+  [![API](https://img.shields.io/badge/API-21%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=21)
   [![GitHub Workflow Status](https://img.shields.io/github/workflow/status/boy12hoody/SimpleMVVMTodoApp/Build%20&%20Publish%20Debug%20APK)](https://github.com/boy12hoody/SimpleMVVMTodoApp/actions/workflows/android.yml)
   [![License](https://img.shields.io/github/license/boy12hoody/SimpleMVVMTodoApp)](https://opensource.org/licenses/Apache-2.0)
-  [![API](https://img.shields.io/badge/API-21%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=21)
+  [![Telegram](https://img.shields.io/badge/Telegram-@BoyWonder-blue.svg?style=flat&logo=telegram)](https://t.me/boywonder)
 
 ## Download
 Go to the [Releases](https://github.com/boy12hoody/SimpleMVVMTodoApp/releases) to download the latest APK.
