@@ -4,10 +4,21 @@ A simple todo app based on MVVM architecture.<br>
 Re-upload of the old project for demonstration purposes.
 </p>
 
-  [![API](https://img.shields.io/badge/API-21%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=21)
-  [![GitHub Workflow Status](https://img.shields.io/github/workflow/status/boy12hoody/SimpleMVVMTodoApp/Build%20&%20Publish%20Debug%20APK)](https://github.com/boy12hoody/SimpleMVVMTodoApp/actions/workflows/android.yml)
-  [![License](https://img.shields.io/github/license/boy12hoody/SimpleMVVMTodoApp)](https://opensource.org/licenses/Apache-2.0)
-  [![Telegram](https://img.shields.io/badge/Telegram-@BoyWonder-blue.svg?style=flat&logo=telegram)](https://t.me/boywonder)
+<p align="center">
+  <a href="https://android-arsenal.com/api?level=21"><img alt="API" src="https://img.shields.io/badge/API-21%2B-brightgreen.svg?style=flat"/></a>
+  <a href="https://github.com/boy12hoody/SimpleMVVMTodoApp/actions/workflows/android.yml"><img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/boy12hoody/SimpleMVVMTodoApp/Build%20&%20Publish%20Debug%20APK"/></a>
+  <a href="https://opensource.org/licenses/Apache-2.0"><img alt="License" src="https://img.shields.io/github/license/boy12hoody/SimpleMVVMTodoApp"/></a>
+  <a href="https://t.me/boywonder"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-@BoyWonder-blue.svg?style=flat&logo=telegram"/></a>
+</p>
+
+### Screenshots
+<p align="center">
+<img src="https://user-images.githubusercontent.com/70273198/128517050-b8ba0d21-9977-4fe2-b90e-5a8126b2f9cd.jpg" width="17%"/>
+<img src="https://user-images.githubusercontent.com/70273198/128517059-a288d9c1-21cb-4a72-b485-0ff6ce31c8cc.jpg" width="17%"/>
+<img src="https://user-images.githubusercontent.com/70273198/128517062-c9ae4e60-0453-4fc7-91bf-ccef56d35d3c.jpg" width="17%"/>
+<img src="https://user-images.githubusercontent.com/70273198/128517063-9219a3de-76ce-4d31-bce4-98ede3e9d2d6.jpg" width="17%"/>
+<img src="https://user-images.githubusercontent.com/70273198/128517067-2b6517ef-57fe-40e8-a1db-41938c878a80.jpg" width="17%"/>
+</p>
 
 ## Download
 Go to the [Releases](https://github.com/boy12hoody/SimpleMVVMTodoApp/releases) to download the latest APK.
