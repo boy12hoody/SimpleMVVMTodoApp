@@ -9,7 +9,7 @@ A simple todo app based on MVVM architecture.<br>
 <p align="center">
   <a href="https://android-arsenal.com/api?level=21"><img alt="API" src="https://img.shields.io/badge/API-21%2B-brightgreen.svg?style=flat"/></a>
   <a href="https://github.com/boy12hoody/SimpleMVVMTodoApp/actions/workflows/android.yml"><img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/boy12hoody/SimpleMVVMTodoApp/Build%20&%20Publish%20Debug%20APK"/></a>
-  <a href="https://opensource.org/licenses/Apache-2.0"><img alt="License" src="https://img.shields.io/github/license/boy12hoody/SimpleMVVMTodoApp"/></a>
+  <a href="https://github.com/boy12hoody/SimpleMVVMTodoApp/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/github/license/boy12hoody/SimpleMVVMTodoApp"/></a>
   <a href="https://t.me/boywonder"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-@BoyWonder-blue.svg?style=flat&logo=telegram"/></a>
 </p>
 
