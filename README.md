@@ -2,8 +2,8 @@
 <p align="center">
 A simple todo app based on MVVM architecture.<br>
 <i>Re-upload of the old project for demonstration purpose.
-  It was a part of the process of my learning Modern Android Development.
-  This project has reached its end of life</i>
+  It was a part of my process of learning Modern Android Development.
+  This project has reached its end of life.</i>
 </p>
 
 <p align="center">
@@ -43,8 +43,8 @@ Click *Run app* to install the app on your device or emulator.
 - [Flow](https://kotlin.github.io/kotlinx.coroutines/kotlinx-coroutines-core/kotlinx.coroutines.flow/-flow/) - A cold asynchronous data stream that sequentially emits values and completes normally or with an exception.
 - [Android Architecture Components](https://developer.android.com/topic/libraries/architecture) - Collection of libraries that help you design robust, testable, and maintainable apps.
   - [Jetpack](https://developer.android.com/jetpack) -
-    - [DataStore](https://developer.android.com/topic/libraries/architecture/datastore)
-    - [Navigation](https://developer.android.com/guide/navigation)
+    - [DataStore](https://developer.android.com/topic/libraries/architecture/datastore) - New data storage solution which is the replacement of SharedPreferences.
+    - [Navigation](https://developer.android.com/guide/navigation) - Navigation component designed for apps that have one main activity with multiple fragment destinations.
     - [LiveData](https://developer.android.com/topic/libraries/architecture/livedata) - Data objects that notify views when the underlying database changes.
     - [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel) - Stores UI-related data that isn't destroyed on UI changes.
     - [ViewBinding](https://developer.android.com/topic/libraries/view-binding) - Generates a binding class for each XML layout file present in that module and allows you to more easily write code that interacts with views.
