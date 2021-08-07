@@ -1,8 +1,9 @@
 <h1 align="center">Simple MVVM ToDo App</h1>
 <p align="center">
 A simple todo app based on MVVM architecture.<br>
-Re-upload of the old project for demonstration purposes.
-
+<i>Re-upload of the old project for demonstration purpose.
+  It was a part of the process of my learning Modern Android Development.
+  This project has reached its end of life</i>
 </p>
 
 <p align="center">
@@ -23,6 +24,18 @@ Re-upload of the old project for demonstration purposes.
 
 ## Download
 Go to the [Releases](https://github.com/boy12hoody/SimpleMVVMTodoApp/releases) to download the latest APK.
+
+## Build And Run
+First, clone the repository with:
+
+```sh
+git clone https://github.com/boy12hoody/SimpleMVVMTodoApp.git
+```
+
+From Android Studio, select *Import Project*, then select the root folder of the cloned repository.
+Click *Make Project* to build the app and download all the required dependencies.
+Click *Run app* to install the app on your device or emulator.
+
 
 ## 🛠 Tech stack & Open-source libraries
 - [Kotlin](https://kotlinlang.org/) - First class and official programming language for Android development.
