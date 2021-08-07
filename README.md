@@ -2,6 +2,7 @@
 <p align="center">
 A simple todo app based on MVVM architecture.<br>
 Re-upload of the old project for demonstration purposes.
+
 </p>
 
 <p align="center">
@@ -13,11 +14,11 @@ Re-upload of the old project for demonstration purposes.
 
 ### Screenshots
 <p align="center">
-<img src="https://user-images.githubusercontent.com/70273198/128517050-b8ba0d21-9977-4fe2-b90e-5a8126b2f9cd.jpg" width="17%"/>
-<img src="https://user-images.githubusercontent.com/70273198/128517059-a288d9c1-21cb-4a72-b485-0ff6ce31c8cc.jpg" width="17%"/>
-<img src="https://user-images.githubusercontent.com/70273198/128517062-c9ae4e60-0453-4fc7-91bf-ccef56d35d3c.jpg" width="17%"/>
-<img src="https://user-images.githubusercontent.com/70273198/128517063-9219a3de-76ce-4d31-bce4-98ede3e9d2d6.jpg" width="17%"/>
-<img src="https://user-images.githubusercontent.com/70273198/128517067-2b6517ef-57fe-40e8-a1db-41938c878a80.jpg" width="17%"/>
+<img src="https://user-images.githubusercontent.com/70273198/128517050-b8ba0d21-9977-4fe2-b90e-5a8126b2f9cd.jpg" width="50%"/>
+<img src="https://user-images.githubusercontent.com/70273198/128517059-a288d9c1-21cb-4a72-b485-0ff6ce31c8cc.jpg" width="70%"/>
+<img src="https://user-images.githubusercontent.com/70273198/128517062-c9ae4e60-0453-4fc7-91bf-ccef56d35d3c.jpg" width="30%"/>
+<img src="https://user-images.githubusercontent.com/70273198/128517063-9219a3de-76ce-4d31-bce4-98ede3e9d2d6.jpg" width="80%"/>
+<img src="https://user-images.githubusercontent.com/70273198/128517067-2b6517ef-57fe-40e8-a1db-41938c878a80.jpg" width="40%"/>
 </p>
 
 ## Download
@@ -42,8 +43,6 @@ Go to the [Releases](https://github.com/boy12hoody/SimpleMVVMTodoApp/releases) t
 
 ## Architecture
 This app uses [***MVVM (Model View View-Model)***](https://developer.android.com/jetpack/docs/guide#recommended-app-arch) architecture.
-
-![](https://developer.android.com/topic/libraries/architecture/images/final-architecture.png)
 
 ## MAD Score
 ![jetpack](https://user-images.githubusercontent.com/70273198/128502827-e473c313-6403-4c0a-81c6-c0e21af7772a.png)
